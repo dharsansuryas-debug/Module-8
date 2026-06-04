@@ -12,7 +12,7 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-```
+```python
 def result(a, b):
     modulo_value = a % b
     return modulo_value
@@ -22,12 +22,10 @@ b=int(input())
 print("modulo is", result(a, b))
 ```
 
-
 ## Output
 
-<img width="1097" height="497" alt="Screenshot 2025-09-13 222939" src="https://github.com/user-attachments/assets/1b7f5f41-484f-47cd-9816-5999d40950c7" />
-
+<img width="662" height="311" alt="image" src="https://github.com/user-attachments/assets/27cff632-6d6c-4b9a-bad7-3984329c8ec6" />
 
 ## Result
 
-Thus, the program to implement a Modulo Calculator using Functions in Python was executed successfully.
+The program to return two values modulo is successful.
